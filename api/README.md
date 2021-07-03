@@ -1,2 +1,2 @@
 # ShoppingList-Database
-Database with PostGres, Sequelize and Express 
+Database with PostgreSQL, Sequelize and Express 
